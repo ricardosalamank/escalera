@@ -3,3 +3,5 @@ upload/
 .idea
 .idea/
 .vendor/
+vendor/
+*.lock
