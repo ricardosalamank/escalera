@@ -8,6 +8,6 @@
 	$ejemplo[] = array(7,8,12,13,14);
 	
 	$poker = new Poker();
-	foreach ($ejemplo as $val){
+	foreach ($ejemplo as $val) {
 		$poker->isStraight($val);
 	}
